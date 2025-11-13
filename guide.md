@@ -95,10 +95,21 @@ Notes:
 1. **GOAL** Go down on the Mines up to lv90, Get 42500 for the Bus Bundle, finish remaining bundles, get Bombs and Food for Skull Cave
 1. Fish or Mine
 ### Day 14
-1. **GOAL** Finish remaining bundles, get Bombs and Food for Skull Cave
+1. **GOAL** Finish remaining bundles, get Bombs (100+) and Food(30 Salads per day) for Skull Cave
 1. Fish or Mine
 ### Day 15
-1. Desert Festival
+1. **GOAL** Desert Festival
+1. Before Skull Cave run
+    1. Desert Trader: buy Coffee and Spicy Eel
+    1. Chef: Cook Luck+Speed food
+1. Do the run. Aim for 55 rating + 150 iridium
+    1. Focus on getting down earlier, don't miss the statues when possible
+    1. Leave at most 1:00
+1. After
+    1. Desert Trader: buy 3+ x Desert Totem
+    1. If the festival vendor has food that gives at least Luck+2, buy some (for later use, in the Festival focus on Magic Rock)
+    1. If prepared for 3 days runs: Buy some Bombs with Calico Eggs if need and the Book for Forage XP
+
 ### Day 16
 1. Desert Festival
 ### Day 17
